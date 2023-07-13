@@ -3,6 +3,8 @@
 # Content 
 
 <ul>
-  <li>Jupyter notebooks to set up joint inversion of gravity and magnetic data based variation of information inversion implemented in JIF3D developed by Max Moorkamp</li>
-  <li>Jupyter notebook to evaluate inversion results</li>
+  <li> Python environment file</li>
+  <li> Input data for the joint inversion</li>
+  <li>Jupyter notebook to set up a joint inversion of gravity and magnetic data based "variation of information" inversion approach using the JIF3D code developed by Max Moorkamp</li>
+  <li>Jupyter notebook to evaluate the inversion results</li>
 </ul>
