@@ -1,0 +1,19 @@
+../../../bin/jointinv --inclination -1.47 --declination 2.57 --fieldstrength 64981 --mutual_information 100 --scalminerr 2e-5 --magminerr 15 --mindens -250 --maxdens 250 --minsus -0.1 --maxsus 0.1 --dens_covmod density_cov.nc --sus_covmod Susceptibility_cov.nc --coupling_validity MI_cov.nc  <<eof 
+start_mag.nc
+1.0
+0.0
+gravdata.nc
+start_grav.nc
+1.0
+magdata.nc
+start_mag.nc
+0.0
+0.0
+0.0
+0.0
+0.0
+15000.0
+10.0
+10.0
+100
+eof

@@ -1,0 +1,19 @@
+../../../bin/jointinv --scalminerr 2e-5 --mindens -200 --maxdens 200 --dens_covmod density_cov.nc  <<eof 
+start_mag.nc
+1.0
+0.0
+gravdata.nc
+start_grav.nc
+0.0
+magdata.nc
+start_mag.nc
+0.0
+0.0
+0.0
+0.0
+0.0
+0
+10.0
+10.0
+100.0
+eof
